@@ -1,7 +1,7 @@
 # This is only a fork of a other COMPAT, so thus it will be updated along with the original, but will also contain some of my personal functions.
 # Please go support the original creator!
 
--Current Functions:
+# Current Functions:
 
 'type' field accepts three types, "left_controller", "right_controller" and "headset"
 
