@@ -1,4 +1,5 @@
-Hi, this is very early in development so please expect bugs, if you find any, please let me know in the github issues
+# This is only a fork of a other COMPAT, so thus it will be updated along with the original, but will also contain some of my personal functions.
+# Please go support the original creator!
 
 -Current Functions:
 
